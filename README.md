@@ -1,0 +1,1 @@
+# qa-checklist-product-store
