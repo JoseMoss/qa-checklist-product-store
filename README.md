@@ -17,3 +17,9 @@ Este repositorio contiene una lista de verificación (checklist) para pruebas de
 - Buenas prácticas de QA manual
 
 
+## 📋 Matriz de Trazabilidad
+
+Este documento permite mapear los requerimientos del sistema con sus casos de prueba correspondientes, asegurando una cobertura completa del testing.  
+Puedes revisarla en el siguiente archivo:
+
+👉 [Ver Matriz de Trazabilidad](docs/traceability-matrix.md)
